@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Rasoul</h1>
-<h3 align="center">I <🖤 /> building apps that change/help/simplify people's lives./h3>
+<h3 align="center">I <🖤 /> building apps that change/help/simplify people's lives.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
